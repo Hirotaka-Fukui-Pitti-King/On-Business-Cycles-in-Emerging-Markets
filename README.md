@@ -1,4 +1,4 @@
-# Notes-on-Business-Cycles-in-Emerging-Markets
+# On Business Cycles in Emerging Markets
 Emerging markets exhibit distinct cyclical patterns compared to advanced economies. These nations face amplified booms and busts driven by capital flow volatility, commodity price shocks, and institutional weaknesses. 
 
 This lecture examines the distinctive characteristics of business cycles in emerging market economies. Unlike advanced economies, emerging markets experience more volatile and pronounced economic fluctuations, characterized by sharper output contractions, greater consumption volatility relative to GDP, and strongly countercyclical net exports. 
